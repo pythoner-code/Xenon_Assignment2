@@ -25,7 +25,7 @@ Starting the server
 
 In the root directory of the project, run node server.js to start the server.
 
-Open your web browser and go to https://659e6eb308fae1c3bb4cad8e--astounding-babka-250f2c.netlify.app/. You should see the sign up and login pages.
+Open your web browser and go to https://localhost:2000 or https://659e6eb308fae1c3bb4cad8e--astounding-babka-250f2c.netlify.app/. You should see the sign up and login pages.
 Sign Up
 
 Fill out the form on the sign up page with your desired  email, and password.
