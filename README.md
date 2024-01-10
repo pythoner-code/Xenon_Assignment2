@@ -1,9 +1,4 @@
-
-
-
-
-
-# Login-and-register-using-node.js-and-mongodb
+# Xenon_Assignment2
 ## Sign Up and Login System
 
 ### Prerequisites
